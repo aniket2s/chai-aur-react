@@ -47,3 +47,5 @@ export default App
 /* LECTURE 5
 Notes: React controls the UI updation. This leads us to use different hooks.
 */
+
+/* LECTURE 6 : Virtual DOM, reconciliation and fiber*/
